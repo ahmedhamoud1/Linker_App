@@ -1,16 +1,2 @@
-# linker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# linker is a new flutter app (Link Shortener)
+![Apple iPhone 11 Pro Max Presentation551515](https://user-images.githubusercontent.com/112031810/187572469-211b5e65-9043-47c8-a6a3-91da859e1069.png)
